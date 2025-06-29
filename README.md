@@ -4,7 +4,7 @@ Project Overview
 
 This project focuses on analyzing the transaction_data table for Reputable Product Agency (RPA) to identify potentially fraudulent credit card transactions. RPA has been receiving complaints from their credit card processor about fraudulent activities, and the goal is to assist the finance department in detecting risky transactions before they are fully processed. Using SQL, this project involves querying the dataset to uncover patterns, anomalies, or specific criteria indicative of fraud. 
 
-This project included the writing querires for the prompts below:
+This project included writing querires for the prompts below:
 
 1. Start by getting a feel for the transaction_data table. What are the column names?
 2. The finance department noted that some of the fraudulent transactions were recorded as coming from Smokey Bear’s zip code (20252). You agree this is suspicious, it’s unlikely that the fire prevention mascot is using Reputable Company’s services.Find the full_names and emails of the transactions listing 20252 as the zip code.
